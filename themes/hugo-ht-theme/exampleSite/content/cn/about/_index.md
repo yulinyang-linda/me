@@ -1,5 +1,5 @@
 ---
-title: "王大锤简历"
+title: "王大锤"
 type : list-single
 toc: true
 ---
