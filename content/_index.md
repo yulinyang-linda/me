@@ -7,7 +7,7 @@ output:
   word_document: default
 ---
 
-![photo](/images/photo.png)
+![photo](/images/barcelona.png "Me in Barcelona, Spain in 2022 Winter")
 
 My name is Yulin Yang, a first-year PhD student in sociology at Brown University.  I did my undergraduate studies at Renmin University of China.(supplement awaiting)
 
