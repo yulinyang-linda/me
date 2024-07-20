@@ -53,7 +53,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     # Edit by yourself:
     GithubEdit = "https://github.com/yulinyang-linda/me/edit/main/content/"
     copyright = "&copy;"
-    copyrightYear = "2020-2021"
+    copyrightYear = "2024-"
     # Edit by yourself:
     GithubRepo = "https://github.com/yulinyang-linda/me"
     # Edit by yourself:
