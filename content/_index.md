@@ -1,13 +1,13 @@
 ---
 title: "Home"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
   word_document: default
 ---
 
-{{<figure src=![photo](./images/photo.JPG) title="Welcome to My Website" width="450">}}
+{{<figure src=![photo]("https://drive.google.com/file/d/1uqmNlR2FUyVK8AQh9F9OaBGOaX6Ac7wH/view?usp=drive_link") title="Welcome to My Website" width="450">}}
 
 My name is Yulin Yang, a first-year PhD student in sociology at Brown University.  I did my undergraduate studies at Renmin University of China.(supplement awaiting)
 
