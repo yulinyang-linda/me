@@ -1,6 +1,7 @@
 ---
 title: "Yulin Yang"
 type : list-single
+date : "2024-07-20"
 ---
 
 ### Contact
