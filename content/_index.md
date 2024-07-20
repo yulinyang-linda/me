@@ -7,7 +7,7 @@ output:
   word_document: default
 ---
 
-{{<figure src=![photo](./images/photo.png) title="Welcome to My Website" width="450">}}
+{{<figure src=![photo](/images/photo.png) title="Welcome to My Website" width="450">}}
 
 My name is Yulin Yang, a first-year PhD student in sociology at Brown University.  I did my undergraduate studies at Renmin University of China.(supplement awaiting)
 
