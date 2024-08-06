@@ -7,7 +7,7 @@ output:
   word_document: default
 ---
 
-{{<figure src="/images/barcelona.png" title="Me in Barcelona in 2022 Winter (Credit to Yifan Qian)" width="650">}}
+{{<figure src="/images/barcelona.png" title="Me in Barcelona in 2022 Winter (Credit to Yifan Qian)" width="700">}}
 
 
 Welcome to my website! My name is Yulin Yang (杨钰琳), a first-year PhD student in sociology at Brown University.  I did my undergraduate studies at Renmin University of China.
